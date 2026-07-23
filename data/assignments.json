@@ -1,0 +1,291 @@
+{
+  "updatedAt": "2026-07-20T20:02:34.943Z",
+  "total": 20,
+  "assignments": [
+    {
+      "name": "Control de Lectura (u1) practica1 (Valor 2.5 Puntos) Individual (Grupo lunes 8am, Grupo lunes 2pm, Grupo viernes 8am)",
+      "points": "2.5",
+      "description": "Solo para Grupos: (Grupo lunes 8am, Grupo lunes 2pm, Grupo viernes 8am)\n\nEn un Documento en PDF, realice un Resumen del capitulo  2  del Libro Fundamentos de Programación de Luis Joyanes Aguilar,  \n\nSe hace individual",
+      "status": "Enviado para calificar",
+      "attempt": "Este es el intento 1 ( 2 intentos permitidos ).",
+      "grade": "Sin calificar",
+      "files": [
+        "Resumen.pdf"
+      ],
+      "url": "https://aulavirtual.itla.edu.do/mod/assign/view.php?id=140470",
+      "dueDate": "Última modificación\tjueves, 21 de mayo de 2026, 21:07",
+      "daysLeft": null,
+      "priority": "NORMAL"
+    },
+    {
+      "name": "Resumen (Valor 2 Puntos extras) Individual (Grupo viernes 8am)",
+      "points": "2",
+      "description": "Solo para Grupos: (Grupo viernes 8am)\n\nEn un Documento en PDF, realice un Resumen del capitulo  2  del Libro Fundamentos de Programación de Luis Joyanes Aguilar,  \n\nSe hace individual",
+      "status": "Pendiente",
+      "attempt": "Este es el intento 1 ( 2 intentos permitidos ).",
+      "grade": "Sin calificar",
+      "files": [],
+      "url": "https://aulavirtual.itla.edu.do/mod/assign/view.php?id=187840",
+      "dueDate": "",
+      "daysLeft": null,
+      "priority": "NORMAL"
+    },
+    {
+      "name": "Practica 1 (Valor 2.5 Puntos)Para exponer la proxima clase(Solo para los grupos lunes 2pm, grupo lunes 8am, grupo viernes 8am)",
+      "points": "2.5",
+      "description": "Solo para los grupos lunes 2pm, grupo lunes 8am, grupo viernes 8am)\n\nLea el capitulo 1 del libro Fundamentos de Programación de Luis Joyanes Aguilar.\nEn un documento en PDF realice lo siguiente:\nPractica para hacer y presentar en grupo. TODOS LOS GRUPOS exponen, no mas de 10 minutos por grupo.\nSe hace en grupo, y TODOS los integrantes de los grupos deben de subir la practica en la fecha dada.\n\n\nGRUPO1:¿Qué es una computadora?, la organización física de una computadora, representación de la información en las computadoras.\n\nGRUPO2: Como se codificara la información? los dispositivos de almacenamiento secundario.\n\nGRUPO3: Que son y ejemplos de los dispositivos de almacenamiento masivo, y conectores de dispositivos de E/S.\n\nGRUPO4: Redes, Web y Web 2.0, El software (los programas).\n\nGRUPO5: Lenguajes de programación, breve historia de los lenguajes de programación.\n\nAdelante!!!\n\n\t\n Fundamentos_de_programacion_Algoritmos_e (1).pdf\n6 de mayo de 2026, 06:00",
+      "status": "Enviado para calificar",
+      "attempt": "Este es el intento 1 ( 2 intentos permitidos ).",
+      "grade": "Sin calificar",
+      "files": [
+        "Fundamentos_de_programacion_Algoritmos_e (1).pdf",
+        "Lenguajes de Programacion - Grupo #5.pdf"
+      ],
+      "url": "https://aulavirtual.itla.edu.do/mod/assign/view.php?id=140472",
+      "dueDate": "Última modificación\tlunes, 25 de mayo de 2026, 08:52",
+      "daysLeft": null,
+      "priority": "NORMAL"
+    },
+    {
+      "name": "Trabajo de Investigación practica2 (Valor 2.5 Puntos) individual (Solo para el grupo lunes 2pm, grupo lunes 8am, viernes 8am)",
+      "points": "2.5",
+      "description": "Solo para los grupos lunes 2pm, grupo lunes 8am, viernes 8am)\n\nNO se expone, solo subir, individual\n\nHacer una investigación Sobre:\n\nTrabajo individual \n\n1. Concepto de programar. \n\n 2.Concepto de algoritmo. \n\n3.Historia y Clasificación de los Lenguajes de programación\n\n4.Datos: Constantes y Variables. \n\n5.Expresiones. \n\n6.La operación de asignación. \n\nEn PDF",
+      "status": "Enviado para calificar",
+      "attempt": "Este es el intento 1 ( 2 intentos permitidos ).",
+      "grade": "Sin calificar",
+      "files": [
+        "Fundamentos.pdf"
+      ],
+      "url": "https://aulavirtual.itla.edu.do/mod/assign/view.php?id=140474",
+      "dueDate": "Última modificación\tviernes, 22 de mayo de 2026, 09:43",
+      "daysLeft": null,
+      "priority": "NORMAL"
+    },
+    {
+      "name": "Realizar los algoritmos informales siguientes _ (Valor 2.5 Puntos) Para exponer - (Grupo lunes 2pm y Grupo lunes 8am, viernes 8am)",
+      "points": "2.5",
+      "description": "HACER EN GRUPO, DIVIDAN LOS 50 algoritmos entra la cantidad de grupos y lo dividen en el mismo orden que están y luego se expone en la clase, serian 10 algoritmos por grupo:\n\n Grupo lunes 2pm y Grupo lunes 8am, viernes 8am\n\nPara el grupo de lo: serian 10 algoritmos por grupo vence y exponen:  (se expone en la 2da hora)\nPara el grupo de losm: serian 10 algoritmos por grupo vence y exponen : (se expone en la 2da hora)\nPara el grupo de los m: serian 10 algoritmos por grupo vence y exponen(se expone en 2da hora)\nPara el grupo de losm: serian 10 algoritmos por grupo vence y exponen (se expone en 2da hora)\nPara el grupo de los m: serian 10 algoritmos por grupo vence y exponen (se expone en 2da hora)\n\n1. Desarrollar un algoritmo que permita adquirir una revista.\n 2. Desarrollar un algoritmo que permita entrar a una casa que está con llave.\n 3. Desarrollar un algoritmo que permita dar un beso.\n 4. Desarrollar un algoritmo que permita empacar un regalo.\n 5. Desarrollar un algoritmo que permita encender un vehículo.\n 6. Desarrollar un algoritmo que permita fritar un huevo.\n 7. Desarrollar un algoritmo que permita mirar por un telescopio.\n 8. Desarrollar un algoritmo que permita botar la basura.\n 9. Desarrollar un algoritmo que permita tomar un baño.\n 10. Desarrollar un algoritmo que permita estudiar para un examen.\n 11. Desarrollar un algoritmo que permita tocar determinada canción con un instrumento musical.\n 12. Desarrollar un algoritmo que permita viajar en avión.\n 13. Desarrollar un algoritmo que permita encender un bombillo.\n 14. Desarrollar un algoritmo que permita encender una vela.\n 15. Desarrollar un algoritmo que permita apagar una vela.\n 16. Desarrollar un algoritmo que permita apagar un bombillo.\n 17. Desarrollar un algoritmo que permita parquear un vehículo.\n 18. Desarrollar un algoritmo que permita almorzar.\n 19. Desarrollar un algoritmo que permita ir de la casa al trabajo.\n 20. Desarrollar un algoritmo que permita colocarse una camisa.\n 21. Desarrollar un algoritmo que permita quitarse la camisa.\n 22. Desarrollar un algoritmo que permita escuchar un determinado disco.\n 23. Desarrollar un algoritmo que permita abrir una ventana.\n 24. Desarrollar un algoritmo que permita ir a la tienda a comprar algo.\n25. Desarrollar un algoritmo que permita tomar una fotografía.\n 26. Desarrollar un algoritmo que permita hacer deporte.\n 27. Desarrollar un algoritmo que permita cortarse el cabello.\n 28. Desarrollar un algoritmo que permita hacer un avión con una hoja de papel.\n 29. Desarrollar un algoritmo que permita manejar una bicicleta.\n 30. Desarrollar un algoritmo que permita manejar una motocicleta.\n 31. Desarrollar un algoritmo que permita manejar un monociclo.\n 32. Desarrollar un algoritmo que permita maquillarse.\n 33. Desarrollar un algoritmo que permita hacer un pastel.\n 34. Desarrollar un algoritmo que permita hacer un almuerzo.\n 35. Desarrollar un algoritmo que permita adquirir un pantalón.\n 36. Desarrollar un algoritmo que permita hacer un mercado pequeño.\n 37. Desarrollar un algoritmo que permita leer el periódico.\n 38. Desarrollar un algoritmo que permita saludar a un amigo.\n 39. Desarrollar un algoritmo que permita arrullar a un bebé hasta que se duerma.\n 40. Desarrollar un algoritmo que permita hacer un gol en fútbol.\n 41. Desarrollar un algoritmo que permita jugar ping-pong.\n 42. Desarrollar un algoritmo que permita nadar.\n 43. Desarrollar un algoritmo que permita tirarse desde un avión con un paracaídas.\n 44. Desarrollar un algoritmo que permita tirarse desde un avión sin un paracaídas.\n 45. Desarrollar un algoritmo que permita descifrar un jeroglífico.\n 46. Desarrollar un algoritmo que permita amarrase un zapato.\n 47. Desarrollar un algoritmo que permita quitarse los zapatos.\n 48. Desarrollar un algoritmo que permita silbar.\n 49. Desarrollar un algoritmo que permita elevar una cometa.\n 50. Desarrollar un algoritmo que permita desarrollar algoritmos.",
+      "status": "Enviado para calificar",
+      "attempt": "Este es el intento 1 ( 2 intentos permitidos ).",
+      "grade": "Sin calificar",
+      "files": [
+        "Algoritmos grupo 5.pdf"
+      ],
+      "url": "https://aulavirtual.itla.edu.do/mod/assign/view.php?id=140485",
+      "dueDate": "Última modificación\tmartes, 2 de junio de 2026, 10:59",
+      "daysLeft": null,
+      "priority": "NORMAL"
+    },
+    {
+      "name": "Control de Lectura (U-2) practica5 (Valor 2.5 Puntos) (Grupo lunes 2pm, grupo lunes 8m, grupo viernes 8am)",
+      "points": "2.5",
+      "description": "Grupo lunes 2pm, grupo lunes 8m, grupo viernes 8am\n\n(Realizar)\n\n En este apartado subirás en un documento en PDF, el resumen realizado de los Capitulo 3 y 4  del Libro FUNDAMENTOS DE PROGRAMACIÓN , Algoritmos, Estructura de Datos y Objetos de Luis Joyanes Aguilar\n\nIndividual\n\nPDF",
+      "status": "Enviado para calificar",
+      "attempt": "Este es el intento 1 ( 2 intentos permitidos ).",
+      "grade": "Sin calificar",
+      "files": [
+        "Resumen_Capitulos_3_y_4_Algoritmos.pdf"
+      ],
+      "url": "https://aulavirtual.itla.edu.do/mod/assign/view.php?id=140487",
+      "dueDate": "Última modificación\tmiércoles, 3 de junio de 2026, 22:37",
+      "daysLeft": null,
+      "priority": "NORMAL"
+    },
+    {
+      "name": "Funcionamiento y definicion (Valor 2.5 Puntos) Solo para (Grupo lunes 2pm, grupo lunes 8am y grupo viernes 8am)",
+      "points": "2.5",
+      "description": "Grupo lunes 2pm, grupo lunes 8am y grupo viernes 8am\n\nBuscar el funcionamiento y la definición y como se determina\na) Numeros primos\nb) Numeros Pares\nc) Numeros Impares\nd) Serie de Fibonacci\ne) Factorial de un numero\nf) Numeros Naturales\n\nIndividual\nPDF",
+      "status": "Enviado para calificar",
+      "attempt": "Este es el intento 1 ( 2 intentos permitidos ).",
+      "grade": "Sin calificar",
+      "files": [
+        "conceptos.pdf"
+      ],
+      "url": "https://aulavirtual.itla.edu.do/mod/assign/view.php?id=140490",
+      "dueDate": "Última modificación\tjueves, 11 de junio de 2026, 23:23",
+      "daysLeft": null,
+      "priority": "NORMAL"
+    },
+    {
+      "name": "Tarea Virtual (Valor 2.5 Puntos) (Grupo Lunes 2pm, grupo lunes 8am y Grupo viernes 8am)",
+      "points": "2.5",
+      "description": "(Grupo Lunes 2pm, grupo lunes 8am y Grupo viernes 8am)\n\nTarea de Logica\n\nEn un juego, el ganador obtiene una ficha roja; el segundo, una ficha azul; y el tercero, una amarilla. Al final de varias rondas, el puntaje se calcula de la siguiente manera: Al cubo de la cantidad de fichas rojas se adiciona el doble de fichas azules y se descuenta el cuadrado de las fichas amarillas. Si Andrés llegó 3 veces en primer lugar, 4 veces de último y 6 veces de intermedio, ¿Qué puntaje obtuvo?\n\nEn grupo\n\nNo se expone\n\nPDF",
+      "status": "Enviado para calificar",
+      "attempt": "Este es el intento 1 ( 2 intentos permitidos ).",
+      "grade": "Sin calificar",
+      "files": [
+        "Tarea de logica - Grupo #5.pdf"
+      ],
+      "url": "https://aulavirtual.itla.edu.do/mod/assign/view.php?id=140492",
+      "dueDate": "Última modificación\tjueves, 11 de junio de 2026, 22:04",
+      "daysLeft": null,
+      "priority": "NORMAL"
+    },
+    {
+      "name": "Practica 1. Control de Lectura (valor 5 puntos) Para todos los grupos",
+      "points": "5",
+      "description": "RESUMEN, PARA TODOS LOS GRUPOS:\n\nNo se expone\n\nIndividual\n\nEn este apartado subirás en un documento en PDF, el resumen realizado del Capitulo  5  del Libro FUNDAMENTOS DE PROGRAMACIÓN , Algoritmos, Estructura de Datos y Objetos de Luis Joyanes Aguilar. \n\nPDF",
+      "status": "Enviado para calificar",
+      "attempt": "Este es el intento 1 ( 2 intentos permitidos ).",
+      "grade": "Sin calificar",
+      "files": [
+        "Resumen.pdf"
+      ],
+      "url": "https://aulavirtual.itla.edu.do/mod/assign/view.php?id=140532",
+      "dueDate": "Última modificación\tmartes, 23 de junio de 2026, 17:20",
+      "daysLeft": null,
+      "priority": "IMPORTANTE"
+    },
+    {
+      "name": "Practica 2. Tarea Algoritmos Computacionales/5 puntos- Para todos los grupos",
+      "points": "5",
+      "description": "Hacer los siguientes algoritmos computacionales en PDF Y SUBIRLOS\n\nPara todos los grupos\n\nSe hace en grupo, \n\nSe presentara en la próxima clase\n\n \n\n1.Introducir un numero por teclado. Que nos diga si es positivo o negativo.\n\n2.Introducir un numero por teclado. Que nos diga si es par o impar.\n\n3.Imprimir y contar los múltiplos de 3 desde la unidad hasta un numero que introducimos por teclado.\n\n4.Hacer un pseudocodigo que imprima los números del 1 al 100. Que calcule la suma de todos los números pares por un lado, y por otro, la de todos los impares.\n\n5.Imprimir y contar los números que son múltiplos de 2 o de 3 que hay entre 1 y 100.\n\n6) Hacer el Algoritmo para sumar 3 números leídos por teclado, dividirlos entre 2 e imprimir el resultado.\n\n7) Hacer un Algoritmo que permita leer 2 números diferentes y nos diga cual es el mayor de los 2 números.\n\n8) Sumar los números enteros de 1 a 100 mediante: \n\n\n       a) estructura repetir; (Repeat)\n\n      b) estructura mientras; (While)\n\n      c) Estructura desde. (For)\n\n9) Hacer un Algoritmo que permita escribir los 50 primeros Impares.\n\n10) Hacer un algoritmo que lea X números, calcule y escriba la suma de los pares y el producto de los impares.\n\n11) Realizar un algoritmo que averigüe si dados dos números por tecclado uno es divisor del otro\n\nAdelante!!!",
+      "status": "Enviado para calificar",
+      "attempt": "Este es el intento 1 ( 2 intentos permitidos ).",
+      "grade": "Sin calificar",
+      "files": [
+        "Tarea Algoritmos Computacionales - Grupo #5.pdf"
+      ],
+      "url": "https://aulavirtual.itla.edu.do/mod/assign/view.php?id=140534",
+      "dueDate": "Última modificación\tlunes, 22 de junio de 2026, 11:09",
+      "daysLeft": null,
+      "priority": "IMPORTANTE"
+    },
+    {
+      "name": "Practica3Control de lectura (1 punto extra) Para TODOS los grupos",
+      "points": "2.5",
+      "description": "Resumen del material correspondiente que esta dispuesto en el virtual: Lectura y estudio-para resumir\n\nPara TODOS los grupos\n\nPractica individual\n\nResumir el material que esta en el virtual (Lectura y estudio-para resumir) desde  la pagina 1 hasta la 21, solo la mitad del material.\n\nPDF",
+      "status": "Enviado para calificar",
+      "attempt": "Este es el intento 1 ( 2 intentos permitidos ).",
+      "grade": "Sin calificar",
+      "files": [
+        "Resumen.pdf"
+      ],
+      "url": "https://aulavirtual.itla.edu.do/mod/assign/view.php?id=140536",
+      "dueDate": "Última modificación\tmartes, 30 de junio de 2026, 12:21",
+      "daysLeft": null,
+      "priority": "NORMAL"
+    },
+    {
+      "name": "Practica4 Arreglos (Vectores y matrices) Para todos los grupos 5 puntos",
+      "points": "2.5",
+      "description": "Practica Arreglos (Vectores y matrices) Para todos los grupos\n\nPractica se hace y expone en grupo en la proxima clase.\n\nEn PDF\n\n1. Leer un vector de N componentes. Hallar la suma y el promedio de los elementos del vector.\n\n2.Cargar un vector de N componentes\n\n3.Leer y almacenar en una matriz de m x n una secuencia de números.\n\n4.Dadas 2 matrices a y b obtener la suma.\n\n5. Traspuesta de una matriz.\n\n6.Producto Escalar por una matriz\n\n7. Desarrolla un algoritmo que lea por el teclado una secuencia de n enteros y visualice por pantalla los que sean pares.\n\n8. Se tiene una tabla con los datos de matricula, peso, estatura y sexo de los alumnos de una Universidad.",
+      "status": "Enviado para calificar",
+      "attempt": "Este es el intento 1 ( 2 intentos permitidos ).",
+      "grade": "Sin calificar",
+      "files": [
+        "Practica.pdf"
+      ],
+      "url": "https://aulavirtual.itla.edu.do/mod/assign/view.php?id=140537",
+      "dueDate": "Última modificación\tmartes, 30 de junio de 2026, 12:25",
+      "daysLeft": null,
+      "priority": "NORMAL"
+    },
+    {
+      "name": "Practica 6. Tema Funciones. Para todos los grupos (2 puntos)",
+      "points": "2.5",
+      "description": "Practica en grupo, no se expone, solo deben subirla aquí.\n\nTema: Funciones\n\nPara todos los grupos\n\nHacer las siguientes funciones en Pseint, copiar la captura del pseudocodigo y del resultado:\n\n1.      Escribir una función que devuelva la raíz cuadrada de un número ingresado por teclado.\n\n2.      Diseñar una función que calcule el promedio de tres números.\n\n3.      Definir una función que tenga por argumento una lista y devuelva el tercer elemento de dicha lista.\n\n4.      Definir una función que tomando como argumentos una lista y un elemento, devuelva T si el elemento aparece más de una vez en la lista.\n\nEn PDF\n\nAdelante!!!",
+      "status": "Enviado para calificar",
+      "attempt": "Este es el intento 1 ( 2 intentos permitidos ).",
+      "grade": "Sin calificar",
+      "files": [
+        "Tema Funciones. Para todos los grupos.pdf"
+      ],
+      "url": "https://aulavirtual.itla.edu.do/mod/assign/view.php?id=140539",
+      "dueDate": "Última modificación\tlunes, 6 de julio de 2026, 08:35",
+      "daysLeft": null,
+      "priority": "NORMAL"
+    },
+    {
+      "name": "Material Estructuras en pseint",
+      "points": "2.5",
+      "description": "Estructuras Secuencial\n\nLos pasos por seguir son los mostrados en el pseudocódigo, que corresponde al algoritmo que permite determinar la suma de dos números cualesquiera.\n\nAlgoritmo Suma2Numero\n\n          Definir A, B Como Entero\n\n          Escribir \"Ingrese el primer número:\"\n\n    Leer A\n\n    Escribir \"Ingrese el segundo numero:\"\n\n    Leer B\n\n    // ahora se calcula la suma y se guarda el resultado en la\n\n    // variable C mediante la asignación <-\n\n    C <- A+B\n\n    // finalmente, se muestra el resultado, precedido de una\n\n    // instrucción de Escribir\n\n    Escribir \"El resultado es: \",C\n\nFinAlgoritmo\n\n \n\nEstructura Selectiva:\n\nSi entonces:\n\nEl algoritmo que permite determinar, pidiendo un número por teclado, si es positivo o negativo.\n\nI Algoritmo PositivoNegativo\n\n          Definir num Como Entero\n\n          Escribir \"Digita un numero: \"\n\n          leer num\n\n          Si num>0 Entonces\n\n                    Escribir \"El numero: \",num, \" Es positivo\"\n\n          SiNo\n\n                    Si num<0 Entonces\n\n                    Escribir \"El numero: \",num, \" Es Negativo\"\n\n          SiNo\n\n                              Escribir \"El numero: \",num, \" Es Neutro\"\n\n                    Fin Si \n\n          Fin Si\n\nFinAlgoritmo\n\n \n\nEstructuras repetitivas o de ciclo:\n\nMientas que- o- While:\n\nSe requiere un algoritmo para obtener la suma de los 100 primeros números enteros mediante la utilización de un ciclo “Mientras” o While.\n\nAlgoritmo La_Suma_de_los_100_primeros_numeros_enteros\n\n          Definir numero, suma Como Entero\n\n          numero <- 1\n\n          suma <- 0\n\n          Mientras numero <= 100 Hacer\n\n                    numero <- numero + 1\n\n                    suma <- suma + numero\n\n          FinMientras\n\n          Escribir \"La suma de los 100 primeros números enteros es: \", suma\n\nFinAlgoritmo\n\nHasta que- repetir:\n\nSe requiere un algoritmo para probar la clave correcta, mediante la utilización de un ciclo Repite-hasta:\n\nAlgoritmo Clave_correcta\n\n          Repetir\n\n        Escribir \"Dime tu clave de acceso\"\n\n        Leer clave;\n\n        Si clave <> 1234 Entonces\n\n            Escribir \"Clave incorrecta\"\n\n        FinSi\n\nHasta Que clave=1234\n\n    Escribir \"Bienvenido!\"\n\nFinAlgoritmo",
+      "status": "Pendiente",
+      "attempt": "Este es el intento 1.",
+      "grade": "Sin calificar",
+      "files": [],
+      "url": "https://aulavirtual.itla.edu.do/mod/assign/view.php?id=140640",
+      "dueDate": "",
+      "daysLeft": null,
+      "priority": "NORMAL"
+    },
+    {
+      "name": "Arreglos(Unidimensionales y Matrices) EJERCICIOS DE EJEMPLO",
+      "points": "2.5",
+      "description": "Arreglos ejercicios.\n\n\n1.Dimensionar un arreglo de 5 elementos:\n\nAlgoritmo sin_titulo\n\n\tDimension num[5]\n\n\tPara i<-1 Hasta 5 Con Paso 1 Hacer\n\n\t\tEscribir \"Ingrese un numero para la posición \",i \n\n\t\tLeer num[i]\n\n\tFinPara\n\n\tEscribir \"Los numeros ingresados son : \"\n\n\tPara i<-1 Hasta 5 Con Paso 1 Hacer\n\n\t\tEscribir num[i]\n\n\tFinPara\n\nFinAlgoritmo\n\n2.Calcular el promedio de un arreglo de datos unidimensional:\n\nAlgoritmo Promedioarreglo\n\n\tEscribir \"Ingrese la cantidad de datos:\"\n\n    Leer n\n\n    \n\n    acum<-0\n\n    \n\n    Para i<-1 Hasta n Hacer\n\n        Escribir \"Ingrese el dato \",i,\":\"\n\n        Leer dato\n\n        acum<-acum+dato\n\n    FinPara\n\n    \n\n    prom<-acum/n\n\n    \n\n    Escribir \"El promedio es: \",prom\n\n    \n\nFinAlgoritmo\n\n3. Imprimir un arreglo de 10 posiciones unidimensional:\n\nAlgoritmo Imprimirarreglo\n\n\t\tDimension numeros[10]\n\n\t\tnumeros[1]<-7;\n\n\t\tnumeros[2]<-44;\n\n\t\tnumeros[3]<-6;\n\n\t\tnumeros[4]<-28;\n\n\t\tnumeros[5]<-40;\n\n\t\tnumeros[6]<-32;\n\n\t\tnumeros[7]<-14;\n\n\t\tnumeros[8]<-26;\n\n\t\tnumeros[9]<-58;\n\n\t\tnumeros[10]<-20;\n\n\t\tEscribir \"Los 10 numeros declarados en un arreglo son\"\n\n\t\tPara i<-1 Hasta 10 Con Paso 1 Hacer\n\n\t\t\tEscribir numeros[i]\n\n\t\tFin Para\n\nFinAlgoritmo\n\n4. calcular el promedio de una matriz:\n\nAlgoritmo promediomatriz\n\n\t\t// Definir las variables\n\n\t\tDefinir a,b,f,c,suma,matriz Como Entero\n\n\t\t//Pedimos que se ingrese las filas de la matriz.\n\n\t\tEscribir \"Ingresa las filas de la matriz\"\n\n\t\t//Este número se almacena en la variable f.\n\n\t\tleer f\n\n\t\t//Pedimos que se ingresen las columnas de la matriz.\n\n\t\tEscribir \"Ingresa las columnas de la matriz\"\n\n\t\t//Este número se almacena en la variable c.\n\n\t\tleer c\n\n\t\t//Colocamos el tamaño de la matriz, en este ejemplo el tamaño de se determina por el usuario.\n\n\t\tDimension matriz[f,c]\n\n\t\t//Utilizamos un ciclo que se repite n veces, esto dependerá del número de filas que ingrese el usuario.\n\n\t\tpara a = 1 Hasta f Con Paso 1 Hacer\n\n\t\t\t//Anidamos otro bucle que también se repite n veces, depende del número de columnas ingresadas por el usuario.\n\n\t\t\tpara b = 1 Hasta c Con Paso 1 Hacer\n\n\t\t\t\t//En cada bucle pedimos un numero.\n\n\t\t\t\tEscribir \"Ingresa un numero en la fila «,a,» columna \",b\n\n\t\t\t\t//Estos números los vamos almacenando en la matriz.\n\n\t\t\t\tleer matriz(a,b)\n\n\t\t\tFinPara\n\n\t\tFinPar\n\n\t\t//Inicializamos la variable suma con el número cero, con esta variable vamos a sumar todos los elementos de la matriz.\n\n\t\tsuma = 0\n\n\t\t//Utilizamos otros dos ciclos para recorrer la matriz.\n\n\t\t\tpara a = 1 Hasta f Con Paso 1 Hacer\n\n\t\t\t\tpara b = 1 Hasta c Con Paso 1 Hacer\n\n\t\t\t\t\t//En cada bucle vamos sumando cada elemento de la matriz.\n\n\t\t\t\t\tsuma = suma + matriz(a,b)\n\n\t\t\t\tFinPara\n\n\t\t\tFinPara\n\n\t\t\t//Finalmente mostramos un mensaje en pantalla donde indicamos el promedio de los elementos de la matriz.\n\n\t\tEscribir \"El promedio de los elementos de la matriz es: \",suma / (f*c)\n\n\t\t\t//Para calcular el promedio dividimos la suma entre el resultado de multiplicar las filas por las columnas.\n\n\n\n\nFinAlgoritmo",
+      "status": "Pendiente",
+      "attempt": "Este es el intento 1.",
+      "grade": "Sin calificar",
+      "files": [],
+      "url": "https://aulavirtual.itla.edu.do/mod/assign/view.php?id=140654",
+      "dueDate": "",
+      "daysLeft": null,
+      "priority": "NORMAL"
+    },
+    {
+      "name": "Material de clase-Algoritmos para hacerlos en pseint",
+      "points": "2.5",
+      "description": "DIAGRAMAS DE FLUJO-PSEUDOCODIGO\n\n1.      Pseudocodigo que sume 2 números leídos por teclado e imprima el resultado:\n\nAlgoritmo Sumar\n\nDefinir num1,num2,suma como entero\n\n\n   escribir \"Introduzca primer número (entero): \"\n\n   leer num1\n\n   escribir \"Introduzca segundo número (entero): \"\n\n   leer num2\n\n   suma = num1+num2\n\n   Escribir \"El resultado de la suma es: \", suma\n\nFin\n\n \n\n2.      Pseudocodigo para saber si un numero es par o impar:\n\nAlgoritmo ParImpar\n\nDefinir numero como entero\n\n\n   Escribir \"Escriba un número: \"\n\n   Leer numero\n\n   Si numero % 2 = 0 Entonces    \n\n      Escribir numero, \" es par\"\n\n   SiNo\n\n      Escribir numero, \" no es par\"\n\n   Fin Si\n\nFin\n\n \n\n3.      Pseudocódigo para calcular el promedio de 3 notas:\n\nAlgoritmo Promedio\n\nDefinir N1, N2, N3, Promedio como entero  \n\nEscribir “Introduzca la pimera nota:”\n\nLeer N1\n\nEscribir “Introduzca la segunda nota:”\n\nLeer N2\n\nEscribir “Introduzca la tercera nota:”\n\nLeer N3\n\nPromedio=(N1+N2+N3)/3\n\nEscribir “El resultado del promedio es: “, Promedio\n\nFin",
+      "status": "Pendiente",
+      "attempt": "Este es el intento 1.",
+      "grade": "Sin calificar",
+      "files": [],
+      "url": "https://aulavirtual.itla.edu.do/mod/assign/view.php?id=140686",
+      "dueDate": "",
+      "daysLeft": null,
+      "priority": "NORMAL"
+    },
+    {
+      "name": "REALIZAR EN DIAGRAMA DE FLUJOS Y PSEUDOCODIGO LOS SIGUIENTES PLANTEAMIENTOS (Para TODOS los grupos) 5 puntos",
+      "points": "2.5",
+      "description": "Practica para exponer en la próxima clase en grupo\n\nPARA TODOS LOS GRUPOS.\n\nREALIZAR EN PSEUDOCODIGO Y DIAGRAMA DE FLUJOS:\n\n a) Hacer el Algoritmo para sumar 3 números leídos por teclado, dividirlos entre 2 e imprimir el resultado.\n\nb) Hacer un Algoritmo que permita leer 2 números diferentes y nos diga cual es el mayor de los 2 números.\n\nd) Realizar el Algoritmo para que nos calcule el Area  de un triángulo conocido su base y su altura.\n\ne) Algoritmo para sumar X cantidad de  números  Introducidos manualmente. \n\nf) Hacer un Algoritmo que permita escribir los 50 primeros pares.\n\ng) Hacer un Algoritmo que permita escribir los 50 primeros Impares.",
+      "status": "Pendiente",
+      "attempt": "Este es el intento 1 ( 2 intentos permitidos ).",
+      "grade": "Sin calificar",
+      "files": [],
+      "url": "https://aulavirtual.itla.edu.do/mod/assign/view.php?id=140703",
+      "dueDate": "",
+      "daysLeft": null,
+      "priority": "NORMAL"
+    },
+    {
+      "name": "Control de lectura (para todos los grupos) 5 PUNTOS",
+      "points": "2.5",
+      "description": "Hacer un resumen de 4 paginas o mas sobre del capitulo 8 (Diagramas de flujo) del libro: \"Introducción a la programación\" de los libros sugeridos en el virtual\n\nSolo para los grupos\n\nPractica individual\n\nPDF\n\nDiagramas de flujo \nVentajas de utilizar diagramas de flujo\nEstándar ANSI/ISO 5807-1985 para diagramas de flujo\nSímbolos utilizados en los diagramas de flujo\nReglas para la elaboración de diagramas de flujo\nCómo elaborar un diagrama de flujo de programa \nDiagramas de flujo de los casos prácticos.\n Casos",
+      "status": "Pendiente",
+      "attempt": "Este es el intento 1 ( 2 intentos permitidos ).",
+      "grade": "Sin calificar",
+      "files": [],
+      "url": "https://aulavirtual.itla.edu.do/mod/assign/view.php?id=140707",
+      "dueDate": "",
+      "daysLeft": null,
+      "priority": "NORMAL"
+    },
+    {
+      "name": "TALLER DE DIAGRAMA DE FLUJOS Y PSEUDOCODIGO 5 puntos (Para TODOS los grupos)",
+      "points": "2.5",
+      "description": "HACER EL PSEUDOCODIGO Y DIAGRAMAS DE FLUJOS DE LO SIGUIENTE:\n\n(Para TODOS los grupos) \n\nHacer un algoritmo y Diagramas de flujos DFD que lea X números, calcule y escriba la suma de los pares y el producto de los impares.\n\n Calcular el máximo comun divisor de X números leídos desde teclado.\n\nCalcular el Mínimo comun multiplo de X números leídos desde teclado.\n\n Que permita convertir calificaciones numéricas a Letras según la siguiente tabla: \n\n     <= 69   F\n\n     de 70  a 79  C\n\n     de 80  a 89  B\n\n     de 90  a  100 A\n\nSumar los números enteros de 1 a 100 mediante: a) estructura repetir (Repeat) b) estructura mientras (While) c) estructura desde (FOR)",
+      "status": "Pendiente",
+      "attempt": "Este es el intento 1 ( 2 intentos permitidos ).",
+      "grade": "Sin calificar",
+      "files": [],
+      "url": "https://aulavirtual.itla.edu.do/mod/assign/view.php?id=140720",
+      "dueDate": "",
+      "daysLeft": null,
+      "priority": "NORMAL"
+    },
+    {
+      "name": "Taller ALGORITMOS Y DIAGRAMAS DE FLUJO (Para TODOS los Grupos) 5puntos",
+      "points": "2.5",
+      "description": "Practica en grupo para la próxima clase:\n\nPara TODOS los Grupos\n\n\nHACER LOS PSEUDOCODIGOS Y DIAGRAMAS DE FLUJO:\n\nRealiza los siguientes Pseudocodigos y diagramas de flujo, PDF \n\n-Hacer un Diagrama de Flujo que imprima los números del 100 al 0, en orden decreciente.\n\n-Hacer un Diagrama de Flujo que imprima los números pares entre 0 y 100. \n\n-Hacer un Diagrama de Flujo que imprima la suma de los 100 primeros números.\n\n-Hacer un Diagrama de Flujo que imprima los números impares hasta el 100 y que imprima cuantos impares hay. \n\n- Hacer un Diagrama de Flujo que permita Introducir un número por teclado. Que nos diga si es positivo o negativo.\n\n- Hacer un Diagrama de Flujo que permita Introducir un número por teclado. Que nos diga si es par o impar.\n\n- Hacer un Diagrama de Flujo que permita Imprimir diez veces la serie de números del 1 al 10.",
+      "status": "Pendiente",
+      "attempt": "Este es el intento 1 ( 2 intentos permitidos ).",
+      "grade": "Sin calificar",
+      "files": [],
+      "url": "https://aulavirtual.itla.edu.do/mod/assign/view.php?id=140724",
+      "dueDate": "",
+      "daysLeft": null,
+      "priority": "NORMAL"
+    }
+  ]
+}
