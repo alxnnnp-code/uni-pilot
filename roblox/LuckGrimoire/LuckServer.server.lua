@@ -10,6 +10,11 @@ local remote = folder:FindFirstChild("CastLuckSkill") or Instance.new("RemoteEve
 remote.Name = "CastLuckSkill"
 remote.Parent = folder
 
+-- RemoteEvent solo para VFX de cliente (temblor de camara / destellos)
+local vfxRemote = folder:FindFirstChild("LuckVFXEvent") or Instance.new("RemoteEvent")
+vfxRemote.Name = "LuckVFXEvent"
+vfxRemote.Parent = folder
+
 local cooldowns: { [Player]: { [string]: number } } = {}
 
 remote.OnServerEvent:Connect(function(player, skillName)
