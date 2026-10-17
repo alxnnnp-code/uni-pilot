@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Preview - Grimorio de Luck (Magia de Rayo)</title>
+<link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div id="stage">
+    <canvas id="game"></canvas>
+
+    <div id="hud">
+      <div class="panel">
+        <h1>Luck Voltia &mdash; Magia de Rayo</h1>
+        <p class="sub">Preview de las 4 skills &middot; mismo <code>LuckSkills.Config</code> y mismos VFX que en Roblox</p>
+      </div>
+
+      <div class="bar" id="bar">
+        <button data-skill="ThunderStep"><b>Z</b> Thunder Step<span class="cd"></span></button>
+        <button data-skill="LightningOrbs"><b>X</b> Lightning Orbs<span class="cd"></span></button>
+        <button data-skill="ThunderPursuit"><b>C</b> Thunder Pursuit<span class="cd"></span></button>
+        <button data-skill="ThunderFiend"><b>V</b> Thunder Fiend<span class="cd"></span></button>
+      </div>
+
+      <div class="stats">
+        <span>Daño total: <b id="dmg">0</b></span>
+        <span>Críticos: <b id="crits">0</b></span>
+        <span>Enemigos: <b id="enemies">0</b></span>
+      </div>
+
+      <div class="hint">WASD / flechas para moverte &middot; clic en el suelo para apuntar &middot; teclas Z X C V para las skills</div>
+    </div>
+  </div>
+
+  <script src="vfx.js"></script>
+  <script src="engine.js"></script>
+</body>
+</html>

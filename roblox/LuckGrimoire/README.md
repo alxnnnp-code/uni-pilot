@@ -2,6 +2,22 @@
 
 4 skills de rayo para el grimorio de Luck Voltia, con VFX de alta calidad.
 
+## Preview en el navegador
+
+Abre `preview/index.html` (doble clic, o cualquier servidor estatico) y tendras una demo jugable
+de las 4 skills con los mismos daños, rangos, cooldowns y VFX que el modulo de Roblox.
+
+- **WASD / flechas** para moverte, **raton** para apuntar.
+- **Z X C V** o los botones de abajo para lanzar las skills.
+- Los enemigos persiguen y pegan; si mueres reapareces y el contador sigue.
+- Abajo a la derecha se ven daño total, criticos y enemigos vivos.
+
+Test headless del preview (sin navegador, canvas simulado):
+
+```bash
+node preview/smoke.js
+```
+
 ## Instalación en Roblox Studio
 
 | Archivo | Dónde va | Tipo |
